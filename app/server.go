@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/codecrafters-io/http-server-starter-go/app/server"
+	"github.com/alvaroparker/HTTP-Go/app/server"
 )
 
 func main() {
